@@ -22,7 +22,7 @@
 /*  we bump the mid‑tones for contrast, then fade to white accents */
 [data-theme='dark'] {
   --ifm-color-primary-darkest: #301934;
-  --ifm-color-primary-darker: #000000;
+  --ifm-color-primary-darker: #FFFBFF;
   --ifm-color-primary-dark: #642585;
   --ifm-color-primary: #301934;
   --ifm-color-primary-light: #D9AFD0;
